@@ -17,7 +17,10 @@ This project is a basic simulation of a blockchain implemented in C++.
 - OpenSSL (for SHA256 hashing)
 
 ## How to run the program
-
+### Clone the repo
+```
+git clone https://github.com/Phuc12012005/Blockchain.git
+```
 ### Install dependencies (Ubuntu)
 ```bash
 sudo apt update
