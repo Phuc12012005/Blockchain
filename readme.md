@@ -15,6 +15,7 @@ This project is a basic simulation of a blockchain implemented in C++.
 
 - C++11 or newer
 - OpenSSL (for SHA256 hashing)
+- Debian-based Linux distributions
 
 ## How to run the program
 ### Clone the repo
